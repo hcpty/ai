@@ -1,2 +1,2 @@
 # Readme
-A note about Artificial Intelligence.
+A note about Robot.
